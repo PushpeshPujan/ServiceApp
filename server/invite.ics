@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REPLY
+BEGIN:VEVENT
+DTSTART:20200918T070000Z
+DTEND:20200918T080000Z
+DTSTAMP:20200911T082313Z
+ORGANIZER;CN=aserviceapp1@gmail.com:mailto:aserviceapp1@gmail.com
+UID:63cbk501u1vcl7rdnr8e43um7t@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=TENTATIVE;CN=kausi
+ k@poondit.com;X-NUM-GUESTS=0:mailto:kausik@poondit.com
+CREATED:20200911T061746Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a video call.\nJoin: https://meet.google.com/qca-zppj-
+ ojh\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200911T082311Z
+LOCATION:office
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:kausik@poondit.com
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
