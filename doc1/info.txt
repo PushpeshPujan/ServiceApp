@@ -1,5 +1,0 @@
-applicationId=com.test.doctor1
-appName=doctor name
-providerId=4
-personalize=true
-companyName=Doctor Test

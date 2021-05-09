@@ -1,0 +1,3 @@
+serviceApp/__tests__/
+serviceApp/backup/
+server/package-lock.json
